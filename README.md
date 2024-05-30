@@ -5,6 +5,10 @@ Hello! I'm an student of computer engineering at the University of Salamanca and
 Actually these are the ones which I know perfectly how to use. I also know assembler language and a little bit of sql.
 
 [![My Skills](https://skillicons.dev/icons?i=java,c)](https://skillicons.dev)
+
+## Contact
+hm04ruben@gmail.com
+
 <!--
 **Rubenhernandezm/Rubenhernandezm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
