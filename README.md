@@ -1,4 +1,4 @@
-## Hi there 👋
+## _HI THERE_ 👋
 ### About Me
 Hello! I'm an student of computer engineering at the University of Salamanca and a future programmer. I also like software development, having some knowledge of it.
 ## _MY LANGUAGES_
