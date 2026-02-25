@@ -1,10 +1,10 @@
 ## _HI THERE_ 👋
 ### About Me
-Hello! I'm an student of computer engineering at the University of Salamanca and a future programmer. I also like software development, having some knowledge of it.
+Hello! I'm an student of computer engineering at the University of Salamanca.
 ## _MY LANGUAGES_
-Actually these are the ones which I know perfectly how to use. I also know assembler language and a little bit of sql.
+Actually these are the ones which I know perfectly how to use. I also know about networking, threads, and some basic concepts of cybersecurity.
 
-[![My Skills](https://skillicons.dev/icons?i=java,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,html,linux,py,sqlite)](https://skillicons.dev)
 
 ## Contact
 hm04ruben@gmail.com
