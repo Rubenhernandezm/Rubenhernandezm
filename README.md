@@ -1,14 +1,32 @@
 ## _HI THERE_ 👋
 ### About Me
 Hello! I'm an student of computer engineering at the University of Salamanca.
-## _TECHNOLOGIES_
-These are the main technologies I have experience with. I also know about networking, threads, and some basic concepts of cybersecurity.
 
-[![My Skills](https://skillicons.dev/icons?i=java,c,html,linux,py,sqlite)](https://skillicons.dev)
+ ## _TECH STACK_
+Programming Languages:
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cs,python,java,js,html,css,sqlite,bash"/>
+</p>
+
+Systems & Tools:
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode"/>
+</p>
+
+
+
+ ## _Areas of Interest_
+ Linux Systems & Infrastructure
+ Computer Networking
+ Systems Programming
+ Cybersecurity
+ Cloud & Distributed Systems
+
 
 ## Contact
 hm04ruben@gmail.com
 [LinkedIn](https://www.linkedin.com/in/rubén-hernández-molina-9532a23b0/)
+
 
 <!--
 **Rubenhernandezm/Rubenhernandezm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
