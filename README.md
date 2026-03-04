@@ -8,6 +8,7 @@ These are the main technologies I have experience with. I also know about networ
 
 ## Contact
 hm04ruben@gmail.com
+[LinkedIn](https://www.linkedin.com/in/rubén-hernández-molina-9532a23b0/)
 
 <!--
 **Rubenhernandezm/Rubenhernandezm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
