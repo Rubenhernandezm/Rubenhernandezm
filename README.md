@@ -1,8 +1,8 @@
 ## _HI THERE_ 👋
 ### About Me
 Hello! I'm an student of computer engineering at the University of Salamanca.
-## _MY LANGUAGES_
-Actually these are the ones which I know perfectly how to use. I also know about networking, threads, and some basic concepts of cybersecurity.
+## _TECHNOLOGIES_
+These are the main technologies I have experience with. I also know about networking, threads, and some basic concepts of cybersecurity.
 
 [![My Skills](https://skillicons.dev/icons?i=java,c,html,linux,py,sqlite)](https://skillicons.dev)
 
