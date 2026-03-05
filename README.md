@@ -1,31 +1,42 @@
-## _HI THERE_ 👋
-### About Me
-Hello! I'm an student of computer engineering at the University of Salamanca.
+## Hi there 👋
 
- ## _TECH STACK_
-Programming Languages:
+### 🧑‍💻 About Me
+
+I'm **Rubén Hernández**, a **final-year Computer Engineering student at the University of Salamanca (USAL)**.
+
+During my studies I have developed a strong foundation in:
+
+* Operating Systems
+* Computer Networks
+* Systems Programming
+* Client-Server Architectures
+* Cybersecurity fundamentals
+
+My main interests are **Linux system administration, infrastructure and backend systems**, and I enjoy building tools that help understand how systems and networks work internally.
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cs,python,java,js,html,css,sqlite,bash"/>
 </p>
 
-Systems & Tools:
+### ⚙️ Systems & Tools
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=linux,git,github,vscode"/>
 </p>
 
+## 📫 Contact
+
+📧 **Email:**
+[hm04ruben@gmail.com](mailto:hm04ruben@gmail.com)
+
+💼 **LinkedIn:**
+https://www.linkedin.com/in/rubén-hernández-molina-9532a23b0/
 
 
- ## _Areas of Interest_
- Linux Systems & Infrastructure
- Computer Networking
- Systems Programming
- Cybersecurity
- Cloud & Distributed Systems
-
-
-## Contact
-hm04ruben@gmail.com
-[LinkedIn](https://www.linkedin.com/in/rubén-hernández-molina-9532a23b0/)
 
 
 <!--
