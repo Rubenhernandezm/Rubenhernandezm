@@ -1,55 +1,58 @@
-## Hi there 👋
+## Hi, I'm Rubén 👋
 
-### 🧑‍💻 About Me
+**Final-year Computer Engineering student at the University of Salamanca (USAL), focused on data engineering and analytics.**
 
-I'm **Rubén Hernández**, a **final-year Computer Engineering student at the University of Salamanca (USAL)**.
+I like turning messy source systems into clean, reliable data models: understanding how the data is really stored, deciding what belongs in the analysis, and making data problems visible instead of hiding them.
 
-During my studies I have developed a strong foundation in:
+## ⭐ Featured project
 
-* Operating Systems
-* Computer Networks
-* Systems Programming
-* Client-Server Architectures
-* Cybersecurity fundamentals
+### [passenger-transport-analytics](https://github.com/Rubenhernandezm/passenger-transport-analytics)
 
-My main interests are **Linux system administration, infrastructure and backend systems**, and I enjoy building tools that help understand how systems and networks work internally.
+SQL Server star schema and Power BI report for a coach company: sales, fleet costs and data quality. All data is synthetic, and the project is inspired by a real consulting engagement.
 
-## 🛠️ Tech Stack
+- Python generator of synthetic data with planted data quality problems, plus tests
+- T-SQL views with documented scope rules and quality flags ("flag, don't delete")
+- One-command setup with Docker Compose
+- Three-page Power BI report, including a data quality page that lists every flagged record
 
-### 💻 Programming Languages
+## 🛠️ Tech stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,cs,python,java,js,html,css,sqlite,bash"/>
-</p>
-
-### ⚙️ Systems & Tools
+### 📊 Data & BI
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://skillicons.dev/icons?i=python"/>
 </p>
+
+### 💻 Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,ts,js,c,html,css,bash"/>
+</p>
+
+### ⚙️ Backend & frameworks
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=spring,django,fastapi,angular,react"/>
+</p>
+
+### 🧰 Tools & cloud
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,gitlab,aws,vscode"/>
+</p>
+
+## 🎓 About me
+
+- Final-year Computer Engineering student at USAL
+- Curricular internship on regulatory reporting software: Java (Spring Boot), Python (Django) and Angular
+- Foundations in operating systems, networks, client-server architectures and cybersecurity
+- Training in AWS data engineering (Data Engineering on AWS, Amazon Athena)
+- Most interested in data engineering and analytics, and in related areas such as backend and DevOps
 
 ## 📫 Contact
 
-📧 **Email:**
-[hm04ruben@gmail.com](mailto:hm04ruben@gmail.com)
+📧 **Email:** [hm04ruben@gmail.com](mailto:hm04ruben@gmail.com)
 
-💼 **LinkedIn:**
-https://www.linkedin.com/in/rubén-hernández-molina-9532a23b0/
-
-
-
-
-<!--
-**Rubenhernandezm/Rubenhernandezm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 **LinkedIn:** [Rubén Hernández Molina](https://www.linkedin.com/in/rub%C3%A9n-hern%C3%A1ndez-molina-9532a23b0/)
